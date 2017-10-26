@@ -1,0 +1,26 @@
+{
+  "name": "boi-server",
+  "version": "0.0.1",
+  "description": "devServer of boi",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boijs/boi-server.git"
+  },
+  "author": "zhoujunpeng <zjp0432@163.com> (http://caiziguoguo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "boi-aux-autoinstall": "^1.0.2",
+    "boi-mock": "^0.0.1",
+    "boi-transpiler": "^0.0.1",
+    "boi-utils": "^0.0.3",
+    "express": "^4.16.2",
+    "shelljs": "^0.7.8",
+    "webpack": "^3.8.1",
+    "webpack-dev-middleware": "^1.12.0",
+    "webpack-hot-middleware": "^2.20.0"
+  }
+}
