@@ -1,6 +1,6 @@
 {
   "name": "boi-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "devServer of boi",
   "main": "lib/index.js",
   "scripts": {
