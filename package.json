@@ -1,6 +1,6 @@
 {
   "name": "boi-server",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "devServer of boi",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "boi-aux-autoinstall": "latest",
     "boi-mock": "latest",
-    "boi-transpiler": "latest",
+    "boi-transpiler": "0.0.15",
     "boi-utils": "latest",
     "express": "^4.16.2",
     "shelljs": "^0.7.8",
